@@ -1,0 +1,269 @@
+  
+@media all and (max-width: 800px) {
+    /* mobile devices */
+    
+    
+.header-text-menu {
+    padding-top: 77px !important;}
+.header-text-menu h1 {
+    font-size: 45px;}
+.about-area {
+    margin-top: 40px;}
+.about-area .about-service .about-text h2 {
+    font-size: 35px;}   
+ .company-mani-menu {
+    margin-top: 80px;}   
+.company-area .company-mani-menu .compant-service .cpt-1 {
+    margin-top: 0%;}   
+.company-area .company-mani-menu .compant-service .cpt-3 {
+    margin-top: 0%;} 
+.company-area .company-mani-menu .compant-service .cpt-4 {
+    margin-top: 0%;
+    margin-left: 0px;}
+.company-text-area {
+    margin-top: 45px;}
+.service-area .service-main-area .service-all-area {
+    margin-top: 45px;}
+.service-area .service-main-area .service-all-area .service h2 {
+    font-size: 32px;}  
+.agency .agency-area .agency-top-menu-right {
+    width: 100%;} 
+.testimonial {
+    padding: 10px 0px;}
+.blog-service-text h4 {
+    font-size: 19px;}
+.call-banner-text-area {
+    padding: 30px 50px;}
+.d-flex {
+    display: -ms-flexbox!important;
+    display: inherit!important;}
+.coyp-btn-area a:first-of-type{
+        margin-bottom: 10px;}
+.footer-service-nav{
+      display: flex!important;}
+.footer-service-icon {
+    display: flex!important;} 
+.coyp-area {
+    padding-top: 0px;} 
+       
+}
+
+@media all and (max-width: 768px) {
+  /* mobile devices */
+.header-text-menu h1 {
+    font-size: 34px;} 
+.analytics-area .analytics-main .analytics-top-area h1 {
+    font-size: 38px;}
+.company-mani-menu {
+    margin-top: 100px;}
+.about-area .about-service .about-text h2 {
+    font-size: 30px;} 
+.company-area .company-mani-menu .compant-service .cpt-1 {
+    margin-top: 0%;}
+.company-area .company-mani-menu .compant-service .cpt-3 {
+    margin-top: 0%;}
+.company-area .company-mani-menu .compant-service .cpt-4 {
+    margin-top: 0%;
+     margin-left: 0px;}   
+.service-area .service-main-area .service-all-area {
+    margin-top: 75px;}   
+.service-area .service-main-area .service-all-area .service h2 {
+    font-size: 31px;} 
+.team-all {
+    padding-top: 90px;}
+.agency .agency-area .agency-top-menu h1 {
+    font-size: 44px;}  
+.testimonial {
+    padding: 0px 0px;}  
+.blog-service-text h4 {
+    font-size: 18px;}   
+.blog-area {
+    padding-bottom: 40px;}
+.call-banner-text-area {
+    padding: 30px 50px;}
+.coyp-btn-area{
+    flex-direction: column;}
+.coyp-btn-area a:first-of-type{
+        margin-bottom: 10px;}
+.coyp-area p{
+    padding: 35px 0 0 0px;}
+    
+}
+
+
+@media all and (max-width: 540px) {
+     /* mobile devices */
+.header-main::before {
+    width: 28%;
+    height: 33%;}
+.header-text-menu {
+    text-align: center;
+    padding-top: 50px !important;}    
+.header-text-menu h1 {
+    font-size: 40px;}
+.agency .agency-area .agency-top-menu-right {
+    width: 74%;}
+.header-text-menu p {
+    padding: 30px 0 46px 0;}
+    .analytics-area .analytics-main .analytics-top-area h1 {
+    font-size: 45px;}
+.analytics-top-area{
+   text-align: center;}
+.analytics-top-bt{
+    text-align: center;
+    padding-top: 50px;}
+.analytics-main-service-text{
+        text-align: center;}
+.analytics-area .analytics-main .analytics-main-service .analytics-main-service p:first-of-type {
+    padding-bottom: 20px;}
+.analytics-area .analytics-main .analytics-main-service .analytics-main-service-1 h5 {
+    padding-bottom: 30px;}
+.float-right {
+    float: initial !important;}
+.about-area {
+    margin-top: 30px;}
+.about-area .about-service .about-text h4 {
+    padding: 10px 0px 30px 0px;}
+.about-area .about-service .about-text h2 {
+    font-size: 30px;
+    padding-bottom: 20px;} 
+.about-area .about-service .about-btn {
+    padding: 38px 0px 0px 0px;
+    text-align: center;} 
+.company-mani-menu {
+    margin-top: 55px;}     
+.company-area .company-mani-menu .compant-service .cpt-1 {
+    margin-top: 10%;}
+.company-area .company-mani-menu .compant-service .cpt-3 {
+    margin-top: 0%;}
+.company-area .company-mani-menu .compant-service .cpt-4 {
+    margin-top: 0%;
+    margin-left: 0px; }
+.company-text-area {
+    margin-top: 0px;} 
+.company-text-area{
+        text-align: center;}      
+.service-area .service-main-area .service-all-area {
+    margin-top: 20px;}    
+.service-area .service-main-area .service-all-area .service h2 {
+    font-size: 40px;
+    padding: 30px 0px 50px 0px;}
+.service-btn{
+    text-align: center;}  
+.service-area .service-main-area .service-all-area .service-all .service-1-text h5 {
+    padding-bottom: 20px;}
+.team-all {
+    padding-top: 50px;
+    text-align: center;}  
+.team-area .team-all .team-text {
+    padding: 35px 0;}
+.agency-top-area {
+    padding-top: 61px;}
+.agency-top-menu-right{
+    margin-left: 65px; }
+.agency .agency-area .agency-filter-area .agency-filter-menu {
+    padding: 55px 0px;}
+.testimonial {
+    text-align: center;
+    padding: 46px 0px;}
+ .testimonial .testimonial-title h2 {
+    font-size: 43px;
+    padding: 21px 0 0 0;}    
+.testimonial .testimonial-menu {
+    margin-top: 25px;} 
+.testimonial-tema-icon{
+      justify-content: center;}
+.but-area {
+    padding-top: 10px;}
+.blog-area .blog-title {
+    padding: 15px 0;}  
+.call-banner{
+        text-align: center;}
+.call-banner-text-area {
+    padding: 20px 50px;}
+.call-banner-text h1 {
+    font-size: 26px;
+    padding-bottom: 30px;}
+.call-banner-btn {
+     position: inherit; 
+     bottom: 0%; 
+    margin: 20px 0px 40px 0px;}
+.blog-area {
+    padding-bottom: 40px;}
+.foooter-menu-all {
+    padding-top: 80px;
+    text-align: center;}  
+.foooter-menu-all h1 {
+    padding: 0px 0px 20px;}
+.footer-service-nav{
+        justify-content: center;}  
+.footer-service-icon{
+        justify-content: center;}
+.btn-secondary {
+    margin-top: 10px;}
+.coyp-area {
+    padding-top: 0px;}
+.coyp-btn-area{
+    justify-content: center;}
+    
+}
+    
+    
+@media all and (max-width: 360px) {
+  /* mobile devices */
+.header-main::before {
+    height: 43%;}
+.header-text-menu a {
+    padding: 8px 15px;}
+.header-text-menu h1 {
+    font-size: 30px;} 
+.analytics-area .analytics-main {
+    padding-top: 50px;}
+.agency .agency-area .agency-top-menu-right {
+    width: 77% !important;}
+.blog-area .blog-title h1 {
+    font-size: 37px;}
+.blog-service-text h4 {
+    font-size: 21px;}
+.analytics-top-area h1 {
+    font-size: 39px !important;}      
+.about-area .about-service .about-text h2 {
+    font-size: 26px !important;}
+.service-area .service-main-area .service-all-area .service h2 {
+    font-size: 37px !important;}
+.agency .agency-area .agency-top-menu h1 {
+    font-size: 37px !important;}
+.agency-top-menu-right {
+    margin-left: 40px;}
+.d-flex {
+    flex-direction: inherit !important;}
+.foooter-menu-all {
+    padding-top: 142px;}
+.col-flex{
+    flex-direction: column;}
+.coyp-btn-area{
+  flex-direction: column !important;}
+.company-area .company-mani-menu .compant-service .cpt-1 {
+    margin-top: 0%;
+    margin-left: 48px;}
+.company-area .company-mani-menu .compant-service .cpt-2 {
+    margin-top: 0%;
+    margin-left: 48px;}
+.company-area .company-mani-menu .compant-service .cpt-3 {
+    margin-top: 0%;
+    margin-left: 48px;}
+.company-area .company-mani-menu .compant-service .cpt-4 {
+    margin-top: 0%;
+     margin-left: 48px;}
+.agency .agency-area .agency-top-menu h1 {
+    font-size: 40px;}
+.call-banner-btn {
+    margin: 20px 69px 40px 0px;}
+.d-flex {
+    display: flex!important;
+    flex-direction: column;}
+.coyp-btn-area a:first-of-type{
+    margin-bottom: 15px; }
+.agency .agency-area .agency-top-menu-right {
+     width: 0%; }
+    }
